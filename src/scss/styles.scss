@@ -1,0 +1,8 @@
+@import "./variables";
+
+@import "./utils/layout";
+
+.content {
+    display: block;
+    color: $color-black;
+}
